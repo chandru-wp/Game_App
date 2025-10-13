@@ -1,0 +1,25 @@
+{
+  "name": "Game Hug",
+  "short_name": "Game Hug",
+  "description": "An interactive and fun game app packed with exciting challenges and engaging gameplay.",
+  "start_url": "/Game_App/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#1db954",
+  "orientation": "any",
+  "scope": ".",
+  "icons": [
+    {
+      "src": "Game_App/images1.jpg",
+      "sizes": "192x192",
+      "type": "image/jpg"
+    },
+    {
+      "src": "Game_App/image2.jpg ",
+      "sizes": "512x512",
+      "type": "image/jpg"
+    } 
+  ],
+  "prefer_related_applications": false,
+  "id": "/"
+}
